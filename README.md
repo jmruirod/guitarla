@@ -4,6 +4,8 @@
 
 Este proyecto es una aplicación web demo desarrollada con Vue.js que simula una tienda de guitarras con un carrito de compras funcional. La aplicación permite a los usuarios explorar productos y añadirlos al carrito.
 
+Este proyecto está realizado gracias al curso **[Vue.js 3 - La Guía Completa](https://www.udemy.com/share/108Onc3@s0QRLqcVSwtbJ28vy0q3x4OgBYqn8OtqJ3tnD8YcMzwBtBWOqfnP7LTzefA5ZFvhnQ==/)** de **[Juan Pablo De la Torre Valdez](https://codigoconjuan.com/)**.
+
 ## Características Principales
 
 - **Catálogo de Guitarras**: Explora una variedad de guitarras con detalles técnicos y fotos.
