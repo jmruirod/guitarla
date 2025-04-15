@@ -1,0 +1,6 @@
+@charset "UTF-8";
+@import "tailwindcss";
+
+.font-outfit {
+  font-family: "Outfit", sans-serif;
+}
